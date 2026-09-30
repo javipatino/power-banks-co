@@ -1,0 +1,464 @@
+﻿station_id,place_name,address,city,category
+96351,Auto Lavado Inova ,Cll 63 #17-38,Bogota,Auto & moto
+96002,Full moto av boyaca,Av boyaca #4-06,Bogota,Auto & moto
+96387,Full moto calle 79,Cll 79b #28b-45,Bogota,Auto & moto
+96444,Moto Stock,Cll 72 #24-26,Bogota,Auto & moto
+95742,Rango Boker Detailing,"Calle 138 , 50-17",Bogota,Auto & moto
+95259,Bar Camis,"Colombia, Bogota, Usaquen, Barrancas Norte, Carrera 8A, 158-04",Bogota,Bar & entertainment
+95848,Bar Rancho Gomez,"Colombia, Bogotá, Suba, Cll 138 #50-43",Bogota,Bar & entertainment
+96255,Bar Restaurante Sanandrea,"Colombia, Bogota, Usaquen, San Cristobal Norte, Carrera 8A, 163A-26",Bogota,Bar & entertainment
+96339,Bar Ruta 74,Cll 74 # 20b-08,Bogota,Bar & entertainment
+95260,Billar The Black Diamont,"Colombia, Bogotá, Cra 11 #97a-38",Bogota,Bar & entertainment
+95824,Billar The Black Diamont,"Colombia, Bogotá, Cra 11 #97a-38",Bogota,Bar & entertainment
+96160,Bolirana Los Compas,"Colombia, Bogota, Usaquen, Calle 163A, 7F-28",Bogota,Bar & entertainment
+96298,CLUB DE TEJO COSITA RICA 3,"Calle 67, 14A-62",Bogota,Bar & entertainment
+96394,Cafe Bar Independencia,"Colombia, Bogotá, Cll 63a #16-23",Bogota,Bar & entertainment
+95818,Cafe bar Lumiere,"Colombia, Bogotá, Suba, Cra 58b #130b-12",Bogota,Bar & entertainment
+96069,Capuletos ,"Carrera 28, 86-56",Bogota,Bar & entertainment
+96301,Centro de Entretenimiento JH,"Colombia, Bogotá, Cll 159 # 7d 94",Bogota,Bar & entertainment
+95753,Chorroso,"Colombia, Bogotá, Suba, Carrera 45A, 137-27",Bogota,Bar & entertainment
+95468,Club de Tejo Cosita Rica 4 ,"Calle 67, 14A-46",Bogota,Bar & entertainment
+96098,Club de tejo cosita rica 1 ,"Calle 167, 17-37",Bogota,Bar & entertainment
+96158,Club de tejo cosita rica 2 ,"Calle 163, 17-36",Bogota,Bar & entertainment
+95727,DOLCE FAR NIENTE ,"Calle 93B, 11A-84/LC-207",Bogota,Bar & entertainment
+96565,Despecho,"Calle 90, 16-56/LC-214",Bogota,Bar & entertainment
+95233,EL BUNKER,"Colombia, Bogota, 9-58 Calle 134",Bogota,Bar & entertainment
+95764,El Aventurero Bar,"Colombia, Bogotá, Cra 8 159 34",Bogota,Bar & entertainment
+95441,El automatico,"Colombia, Bogotá, Cll 97a #9-50",Bogota,Bar & entertainment
+96246,Elon Pug Bar,"Calle 163A, 7G-47",Bogota,Bar & entertainment
+95237,Encanto ,"Calle 11A, 43B-20",Medellin,Bar & entertainment
+96072,FLX,Cra 5 #69-07,Bogota,Bar & entertainment
+95778,Felix Pub ,Cra 5 #69-15,Bogota,Bar & entertainment
+96067,Fiallo Cafe bar,"Colombia, Bogotá, Suba, Cra 46 #152-46 LC 237",Bogota,Bar & entertainment
+96384,Gastro Bar Siete Nueve 1,"Carrera 20, 79-90",Bogota,Bar & entertainment
+95998,Iceclubdeca,"Colombia, Bogotá, Cll 63a #16-04 LC 103",Bogota,Bar & entertainment
+96304,Jose Parrilla Gastro Bar,"Colombia, Bogota, Chapinero, Carrera 9A, 66-19",Bogota,Bar & entertainment
+95503,Km Cero,"Colombia, Bogotá, Cra 1 #84d-20 o Avenida Circunvalar #84d -20",Bogota,Bar & entertainment
+96139,La Casa 119,"Calle 119, 9A-29",Bogota,Bar & entertainment
+95621,La Catedra de Jhonsito,"Colombia, Bogotá, Cra 7a 130b 15",Bogota,Bar & entertainment
+95658,Luck Beer ,"Calle 59, 13-52",Bogota,Bar & entertainment
+96391,Mayday Cafe Pub,"Colombia, Bogotá, Cll 71 #14a-22",Bogota,Bar & entertainment
+95677,Monaco,"Calle 90, 16-46",Bogota,Bar & entertainment
+96082,Parche 54,"Colombia, Bogotá, Cll 145 #13a-70",Bogota,Bar & entertainment
+95583,Patria Cerveceria ,"Carrera 11, 81-08",Bogota,Bar & entertainment
+96300,Plan B Gastro Bar,"Colombia, Bogota, Chapinero, Carrera 11",Bogota,Bar & entertainment
+95633,Presagio ,"Carrera 13, 59-24",Bogota,Bar & entertainment
+95588,Revolucion Karaoke ,"Calle 80, 19-86",Bogota,Bar & entertainment
+95796,Sopranos,"Colombia, Bogotá, Cra 53 #103b-63",Bogota,Bar & entertainment
+95754,TERRAZA BAR,"Colombia, Bogota, 9-34 Calle 134",Bogota,Bar & entertainment
+95531,The Happy Pub,"Colombia, Bogotá, Cll 64 #9-10",Bogota,Bar & entertainment
+95285,Tito Club,"Colombia, Bogotá, Cra 29c #75-26",Bogota,Bar & entertainment
+95370,Verona Pub,"Colombia, Bogotá, Cra 11 70 05",Bogota,Bar & entertainment
+95665,Vikingos,"Colombia, Bogota, Usaquen, Calle 142, 15-24",Bogota,Bar & entertainment
+95722,Zangano Lofti Bar y Merendero ,"Colombia, Bogotá, Calle 90, 14-45",Bogota,Bar & entertainment
+95425,al star bowling ,"Calle 90, 16-46",Bogota,Bar & entertainment
+95767,Adolfo Leguizamon Peluqueria,"Carrera 7, 140-19 local 119",Bogota,Barber & beauty
+95516,Alma 85 by Karen Pineda,"Colombia, Bogotá, Calle 143 #18a-60",Bogota,Barber & beauty
+96215,Aquua Bliss Spa Poblado ,"Calle 10, 37 18",Medellin,Barber & beauty
+96178,BARBERIA ATHOS,"Diagonal 108A, 8-29",Bogota,Barber & beauty
+95534,Barber Shop Shalom ,Cll 72 #21-51,Bogota,Barber & beauty
+95472,Barber Sosa ,"Carrera 19, 71A-44",Bogota,Barber & beauty
+96365,Barbercraft,"Colombia, Bogotá, Cra 58 #93a-39",Bogota,Barber & beauty
+95882,Barbero Shop Londres,"Colombia, Bogotá, Suba, Calle 128B, 51-24/IN-6",Bogota,Barber & beauty
+96157,Barbería Bogota DC,"Colombia, Bogota, Cra 24 45c 90",Bogota,Barber & beauty
+95376,Barbería V.I.P,"Calle 10A, 40-13",Medellin,Barber & beauty
+95533,Black Line Tatto ,"Calle 161, 8B-15",Bogota,Barber & beauty
+95678,Casa Barbas ,"Carrera 43B, 43A-57",Medellin,Barber & beauty
+95561,Don tatto Bogota ,"Carrera 13, 60-75",Bogota,Barber & beauty
+95274,El barbaro,"Colombia, Bogotá, Suba, Prado Veraniego, Cra 49a #128c-47",Bogota,Barber & beauty
+95867,Essentriale,"Carrera 58, 128A-27",Bogota,Barber & beauty
+96320,GENTLEMAN'S BARBERÍA TRADICIONAL,"Calle 140, 12B-69",Bogota,Barber & beauty
+95290,Gentleman's 2018 Barberia tradicional,Av boyaca #152-17 LC 301,Bogota,Barber & beauty
+95488,Good Cut,"Carrera 52A, 137A-05",Bogota,Barber & beauty
+95819,Gran torino Barber Shop,Cll 147a #54-20,Bogota,Barber & beauty
+96231,Infinity Tatoo,"Carrera 16, 63-68",Bogota,Barber & beauty
+95814,Inkora Tatto Academy,"Carrera 19A, 61B-72",Bogota,Barber & beauty
+96336,Kosmetic,"Colombia, Bogotá, Usaquén, Cedritos, Calle 140A, 7-11",Bogota,Barber & beauty
+95582,La celda del monje Sexshop ,Cll 64 #15-26,Bogota,Barber & beauty
+95240,La fama Tatto ,"Carrera 43B, 8-31",Medellin,Barber & beauty
+96096,Martinez Belleza,"Colombia, Bogotá, Suba, Carrera 49, 142-25",Bogota,Barber & beauty
+96107,Peluqueria Bella Suiza,"Colombia, Bogotá, Cra 8 127 76",Bogota,Barber & beauty
+95842,Perfumeria,"Colombia, Bogotá, Suba, Ciudad Jardin Norte, Carrera 58D, 130A-12",Bogota,Barber & beauty
+95281,Rex Barbam,"Carrera 55C, 159-40",Bogota,Barber & beauty
+95310,Robin La Peluqueria ,"Cra. 15A, 118-20",Bogota,Barber & beauty
+95629,Sala de belleza Color Flash ,"Calle 125 Bis, 20-71",Bogota,Barber & beauty
+96452,Salon de belleza Liz Quiroga,Cra 53 #141-69 LC 105,Bogota,Barber & beauty
+95820,Sexo Sentido ,"Calle 10, 41-14",Medellin,Barber & beauty
+96386,Sheriff Barber,"Colombia, Bogotá, Cra 19 #143 - 02 piso 2",Bogota,Barber & beauty
+95541,Tanaka Tatto,"Colombia, Bogotá, Cra 15 112 36 LC 107",Bogota,Barber & beauty
+96456,Tu peluquería Jorge Fernández,"Colombia, Bogotá, Cra 11a #90-25",Bogota,Barber & beauty
+96431,Villa Style Barber,Cll 143 #50-67,Bogota,Barber & beauty
+95855,Wonderland Kids Spa,"Colombia, Bogotá, Suba, Cra 58 #131-26",Bogota,Barber & beauty
+96252,Wonderland Nails,"Colombia, Bogota, Usaquen, San Patricio, Calle 114A, 15-09",Bogota,Barber & beauty
+96441,1961 Cafe Tematica Argentina,"Colombia, Bogotá, Cll 106 #53-56",Bogota,Cafe & bakery
+95592,Amor & Cacao,"Colombia, Bogotá, Calle 74 #20c - 19",Bogota,Cafe & bakery
+95576,Atomaro Cafe ,"Carrera 13, 79-10",Bogota,Cafe & bakery
+96281,Batido ,"Carrera 43B, 8-44",Medellin,Cafe & bakery
+96554,Blue Berry Acai ,"Carrera 43B, 8-51",Medellin,Cafe & bakery
+95748,Bogota Premium Coffe,"Colombia, Bogotá, Cll 106 #53-60",Bogota,Cafe & bakery
+95452,Bronw Café ,"Colombia, Antioquia, Municipio de Medellín, El Poblado, Carrera 43A",Medellin,Cafe & bakery
+96100,COFFEE PAPER,"Calle 159, 7G-15",Bogota,Cafe & bakery
+95371,Caalma Cafè ,Calle 119 14a 26,Bogota,Cafe & bakery
+96284,Cafe 18.44,"Colombia, Bogotá, Cra 12 118 44",Bogota,Cafe & bakery
+95366,Cafe Di Sofia,"Carrera 12, 140-82",Bogota,Cafe & bakery
+95568,Cafe Elige Tu Felicidad ,"Carrera 20, 134A-65",Bogota,Cafe & bakery
+95447,Cafe Moreno Sede 127,"Colombia, Bogotá, Cll 127b #50a-01",Bogota,Cafe & bakery
+95822,Cafe Moreno Sede 127,"Colombia, Bogotá, Cll 127b #50a-01",Bogota,Cafe & bakery
+95803,Cafe Perezoso,"Colombia, Bogotá, Calle 74a #22-21",Bogota,Cafe & bakery
+96305,Cafe del Rio,"Colombia, Bogotá, Cra 15 112 03 LC 102",Bogota,Cafe & bakery
+96083,Cafe la mata 93,"Carrera 13, 93-76",Bogota,Cafe & bakery
+96033,Cafe la mata calle 69,"Calle 69A, 4-15",Bogota,Cafe & bakery
+95574,Chapoleros Cafe de especialidad,"Colombia, Bogotá, Calle 74a #20c-11",Bogota,Cafe & bakery
+96330,Chy Chocolate Identity,"Colombia, Bogotá, Cll 76 #22-09 LC 4",Bogota,Cafe & bakery
+95604,Cinnamon Shuga,"Calle 87, 22A-34",Bogota,Cafe & bakery
+95552,Coffeer Tu Cafe del Dia,"Colombia, Bogotá, Cra 11 61 10",Bogota,Cafe & bakery
+96031,Dulce Jesus Mio,"Colombia, Bogotá, Chapinero, Carrera 15, 76-20",Bogota,Cafe & bakery
+96239,El buho-lapiz y cafe ,"Carrera 16, 63A-30",Bogota,Cafe & bakery
+95521,Entero Cafe ,"Calle 62, 11-19",Bogota,Cafe & bakery
+95875,Entremet Pasteleria,"Carrera 12A, 77A-42",Bogota,Cafe & bakery
+95635,Escuela de Cafe Jonimo ,Cll 63 #18-26,Bogota,Cafe & bakery
+95249,Fresas con Crema & Chocolate,"Colombia, Bogotá, Cra 7d 156 69",Bogota,Cafe & bakery
+96140,Galeria Cafe ,"Carrera 43B, 8-58",Medellin,Cafe & bakery
+96302,Gastro Cafe 70 y 7,"Carrera 48, 95-22",Bogota,Cafe & bakery
+95660,Gato Blanco Cafe ,"Calle 10, 43-14",Medellin,Cafe & bakery
+95746,House Coffe D'san,"Colombia, Bogotá, Suba, Cll 128b #50a-06",Bogota,Cafe & bakery
+96334,Inmarcesible Cafe,"Calle 129, 58C-81",Bogota,Cafe & bakery
+96058,J&N Coffe,"Calle 82, 15-47",Bogota,Cafe & bakery
+96120,Kaba Cafe,"Colombia, Bogotá, CLL 162 # 18a -05 local 1",Bogota,Cafe & bakery
+96145,La Casita,"Colombia, Bogotá, Calle 119 14 07",Bogota,Cafe & bakery
+96323,Le Paste,"Colombia, Bogotá, Suba, Cll 138 #57-71",Bogota,Cafe & bakery
+96318,Lebagel Club,"Colombia, Bogota, Chapinero, Carrera 14",Bogota,Cafe & bakery
+95548,Margaritas Cafe  ,"Carrera 19, 154-69",Bogota,Cafe & bakery
+95525,Mavento Coffe Shop ,Cll 64 #14-73,Bogota,Cafe & bakery
+96126,Momentos del Pan,"Calle 150, 20-14",Bogota,Cafe & bakery
+95536,Otro Baguel ,"Colombia, Antioquia, Municipio de Medellín, Barrio de Castropol, Carrera 43",Medellin,Cafe & bakery
+96396,Pa' las onces,"Colombia, Bogotá, Suba, Cra 58b #132a-08",Bogota,Cafe & bakery
+95837,Panaderia Fabrica de Pan,"Carrera 46, 127D-62",Bogota,Cafe & bakery
+96443,Pipon Resposteria Artesanal,"Colombia, Bogotá, cra 47a 99 09",Bogota,Cafe & bakery
+96128,Plenitud Cafe ,"Carrera 9, 67A-06",Bogota,Cafe & bakery
+96049,Reina Maria Cafe ,"Carrera 11, 90-07",Bogota,Cafe & bakery
+95477,Restaurante y pasteleria villa pan,"Colombia, Bogotá, Suba, Calle 128B, 57C-30",Bogota,Cafe & bakery
+96076,Roots Cafe,"Colombia, Bogotá, Cll 74 #20c-67",Bogota,Cafe & bakery
+95617,Salon Pan Express ,"Carrera 7A, 62-08",Bogota,Cafe & bakery
+95445,Santino Pizzeria Gourmet- Restoran cafe,"Transversal 60 Avenue, 119-87",Bogota,Cafe & bakery
+95448,Tazones Cafe,"Colombia, Bogotá, Cra 29 #74-61",Bogota,Cafe & bakery
+96155,Teff ,"Carrera 43A, 11-73",Medellin,Cafe & bakery
+95517,Tortas y pasteles del horno,"Colombia, Bogotá, Suba, Calle 137, 50-64",Bogota,Cafe & bakery
+95546,Winkok Cafe y Heladeria,"Colombia, Bogotá, Suba, Carrera 52, 128B-22",Bogota,Cafe & bakery
+96085,café Bla-Bla,Cll 63 #16a-33,Bogota,Cafe & bakery
+95331,BWS - Bacata Wine & Spirits,Carrera 13 # 78-94,Bogota,Convenience & market
+96515,Bar cigarreria Amryt,"Colombia, Bogotá, Suba, Prado Veraniego Sur, Avenida Carrera 55",Bogota,Convenience & market
+96358,CIGARRERIA PARCHE SELECTO,"Calle 71a, 20-95",Bogota,Convenience & market
+96296,Charcuteria Birraka Wurts,"Colombia, Bogotá, Dg 115a 70d 88 LC 1",Bogota,Convenience & market
+95836,Cigarreria Bersie,Cll 127d #45a-66,Bogota,Convenience & market
+95507,Cigarreria D edixon,"Colombia, Bogotá, Suba, Carrera 46, 134D-24",Bogota,Convenience & market
+96045,Cigarreria Delifast,"Colombia, Bogotá, Calle 159 19 35",Bogota,Convenience & market
+96293,Cigarreria Donde Pacho,"Colombia, Bogota, Usaquen, Las Margaritas, Carrera 19B, 150-24",Bogota,Convenience & market
+96174,Cigarreria Donde Sonia,"Colombia, Bogota, Usaquen, El Toberin, Calle 167A",Bogota,Convenience & market
+95810,Cigarreria Hury,"Colombia, Bogotá, Suba, Cra 53 #134a-87",Bogota,Convenience & market
+95843,Cigarreria Johana,"Colombia, Bogotá, Suba, Cll 128A #47-42",Bogota,Convenience & market
+95634,Cigarreria Poblix ,Cra 24 #76-89,Bogota,Convenience & market
+96362,Cigarreria Punto B ,"Carrera 29C, 75B-26",Bogota,Convenience & market
+96420,Cigarreria de la 108,"Colombia, Bogotá, Cll 108 #53-05 LC 1",Bogota,Convenience & market
+95874,De to' Market,"Carrera 53, 128C-61",Bogota,Convenience & market
+96331,Distribuidor 124,"Transversal 60 , 124-01",Bogota,Convenience & market
+95563,Distrirosse,"Calle 69, 10-24",Bogota,Convenience & market
+95353,El Granjero ,Calle 130 # 58-20 Local 1-29,Bogota,Convenience & market
+95359,El Granjero ,Calle 138 # 55-53 Local 08,Bogota,Convenience & market
+95333,El Granjero Alsacia,Centro Comercial Bazaar Alsacia Calle 12b #71D -61 Local 1-06,Bogota,Convenience & market
+95276,El Granjero Santiago Agudelo,Calle 7a bis c #79b - 14,Bogota,Convenience & market
+95806,El Relincho Cigarreria,"Colombia, Bogotá, Calle 145 a 13 a 91",Bogota,Convenience & market
+95292,Exito de la veci,"Calle 128A, 50A-19",Bogota,Convenience & market
+96123,Fresh Market,"Colombia, Bogota, Usaquen, Calle 136, 17A-48",Bogota,Convenience & market
+96159,Galea Fruits ,"Calle 8, 43A-04",Medellin,Convenience & market
+95325,Grocery ,"Carrera 48A, 10 SUR-32",Medellin,Convenience & market
+96134,La tienda de Santi ,"Calle 69, 23-34",Bogota,Convenience & market
+96425,Licorera JP,"Colombia, Bogotá, Cll 79 #16a-36",Bogota,Convenience & market
+96253,Mercados Donde Manuel,Calle 109 20 69,Bogota,Convenience & market
+96175,Mercados Regionales,"Colombia, Bogotá, Carrera 13 # 118A-48",Bogota,Convenience & market
+95790,Oxxo Global Center,Cra 19 #120-83,Bogota,Convenience & market
+95505,Oxxo Santa Barbara,Cra 7 #124-93,Bogota,Convenience & market
+95834,Oxxo Unique,Cra 9 #100-47/77 edificio unique mine,Bogota,Convenience & market
+95261,Oxxo Virrey,Cl. 90 #19-29,Bogota,Convenience & market
+95490,Oxxo navarra 114,Av 19 #114-09,Bogota,Convenience & market
+95878,Pesquera Bedoya,"Carrera 58, 128B-50",Bogota,Convenience & market
+95608,Rapimarket J&H,Cra 54 #152a-85,Bogota,Convenience & market
+95879,Shop Express,"Colombia, Bogotá, Cra 67 #100-21",Bogota,Convenience & market
+96347,Tienda Concepcion LC 2,"Carrera 29, 78-98",Bogota,Convenience & market
+95886,Tienda de Guanabana Cll 126,"Colombia, Bogotá, Suba, Batan, Cll 126 #45a-31",Bogota,Convenience & market
+95455,ATHLETIC HUB 72,"Carrera 26, 71B-62",Bogota,Gym & sports
+95733,Athletic Calle 147,"Colombia, Bogotá, Cra 7b #146-90",Bogota,Gym & sports
+95317,Athletic Calle 170,"Colombia, Bogotá, Cll 169b #67-61",Bogota,Gym & sports
+95483,Athletic Engativa,"Colombia, Bogotá, Trvs 113 #66-87",Bogota,Gym & sports
+96354,Athletic Restrepo,"Colombia, Bogotá, Cra 22 #31 sur",Bogota,Gym & sports
+96345,Athletic Tunal,"Colombia, Bogotá, Cll 42 sur #24-50",Bogota,Gym & sports
+95254,Aura Women's Club ,Cll 116 #16-78 Piso 2,Bogota,Gym & sports
+95857,Bike alfred,Av suba #127d -16,Bogota,Gym & sports
+95884,Bureo Dance Studio Cll 127,"Colombia, Bogotá, Cll 127b #50a-23",Bogota,Gym & sports
+96232,Club Frontera La Rotonda,"Colombia, Bogotá, CR 17 # 161a -09",Bogota,Gym & sports
+95470,Elite Bike ,"Colombia, Antioquia, Municipio de Medellín, Calle 11A, 43B-42",Medellin,Gym & sports
+95594,Estacion Bici,"Colombia, Bogotá, CLL 134 # 19 11",Bogota,Gym & sports
+95589,Health and Life Gym,"Colombia, Bogotá, CLL 109 14a 08",Bogota,Gym & sports
+95854,Lifit Heavy box Crossfits,"Colombia, Bogotá, Suba, Carrera 47, 128C-19",Bogota,Gym & sports
+96417,Movifit,"Colombia, Bogotá, Suba, San Jose del Prado, Cll 134d #45a-34",Bogota,Gym & sports
+95365,Padel Cancha Central ,Cl. 120a #6a-53,Bogota,Gym & sports
+95599,Polideportivo san felipe,"Colombia, Bogotá, Calle 74 #20b-11",Bogota,Gym & sports
+95670,Polideportivo san felipe segundo piso,"Colombia, Bogotá, Calle 74 #20b-11",Bogota,Gym & sports
+95605,Unilimited Trainig Gimnasio,"Colombia, Bogotá, Av cra 9 #113-37",Bogota,Gym & sports
+95749,Unilimited Trainig Gimnasio,"Colombia, Bogotá, Cll 161 #16-15",Bogota,Gym & sports
+96338,Work It,"Colombia, Bogotá, Cll 116 #45-76",Bogota,Gym & sports
+95555,Centrica Food Hall ,"Calle 120A, 5-09",Bogota,Mall & office
+95330,Centro Comercial Granada Hills ,Autonorte 146 47,Bogota,Mall & office
+95332,Centro Comercial Granada Hills ,Autonorte 146 47,Bogota,Mall & office
+95549,Centro Empresarial Centro landia norte,"Carrera 13, 64-16",Bogota,Mall & office
+96398,Centro comercial Aquarium Piso 1,"Colombia, Bogotá, Cll 60 #9-83",Bogota,Mall & office
+95248,Centro comercial Aquarium Piso 2,"Colombia, Bogotá, Cll 60 #9-83",Bogota,Mall & office
+95288,Centro comercial Aquarium Piso 3,"Colombia, Bogotá, Cll 60 #9-83",Bogota,Mall & office
+95544,Centro comercial Cosmos 64,"Colombia, Bogotá, Cll 64 #11-37 ofc 322",Bogota,Mall & office
+95646,Centro comercial Cosmos 64,"Colombia, Bogotá, Cll 64 #11-37 ofc 322 PISO 4",Bogota,Mall & office
+96054,Centro comercial Cosmos 64,"Colombia, Bogotá, Cll 64 #11-37 ofc 322 piso 4",Bogota,Mall & office
+96372,Centro comercial Cosmos 64,"Colombia, Bogotá, Cll 64 #11-37 ofc 322 piso 5",Bogota,Mall & office
+96369,Centro empresarial Centrolandia Norte 1,"Carrera 13, 64-32",Bogota,Mall & office
+95486,Centro empresarial Centrolandia Norte 2,"Carrera 13, 64-16",Bogota,Mall & office
+96037,Edificio González ,"Calle 61, 13-44",Bogota,Mall & office
+95355,La Facultad,"Cra. 11, 97-36",Bogota,Mall & office
+96249,Onah Center S.A.S,"Colombia, Bogotá, Cra 29 #70-73",Bogota,Mall & office
+95252,Plazoleta Sol Food,"Colombia, Bogotá, Cra 8 127 73",Bogota,Mall & office
+95661,Unilago Centro Comercial  1 piso 2,"Carrera 15, 78-33",Bogota,Mall & office
+96373,Unilago Centro Comercial 1 piso zona cafe,"Carrera 15, 78-33",Bogota,Mall & office
+96343,Unilago Centro Comercial 2 piso Camaras ,"Carrera 15, 78-33",Bogota,Mall & office
+96364,Unilago Centro Comercial 2 piso cafe,"Carrera 15, 77-75",Bogota,Mall & office
+95593,Unilago Centro Comercial OMA cafe,"Carrera 15, 77-59/LC-172-173",Bogota,Mall & office
+96350,Unilago Centro Comercial Punto de Informacion ,"Carrera 15, 78-33/LC-1",Bogota,Mall & office
+95664,We Work,"Колумбия, Богота, Чапинеро, Carrera 19, 100-45",Bogota,Mall & office
+95459,360 Lab,"Colombia, Bogotá, Cra 12a #78-40",Bogota,Other
+95769,5 Destinos,"Colombia, Bogotá, Suba, Carrera 46, 129-25",Bogota,Other
+95526,Alborada  vivero Urbano ,"Carrera 13A, 90-29",Bogota,Other
+95622,Artesanias Batan,"Carrera 15, 75-70",Bogota,Other
+95294,Aserrin Aserran lo maderos,"Colombia, Bogotá, Usaquén, Carrera 7B",Bogota,Other
+96039,Buena Vista 1,"Calle 63, 8-8",Bogota,Other
+95532,Casa San Felipe,"Colombia, Bogotá, Calle 75 #22-40",Bogota,Other
+96065,Cleah Rabbit,"Calle 61, 3b 08",Bogota,Other
+95512,Cosa nostra Estudio ,"Calle 86A, 27-14",Bogota,Other
+96275,DG Artisan ,"Carrera 12B, 161-13",Bogota,Other
+96103,DH Arcangel Miguel,"Calle 165, 8D-47",Bogota,Other
+96389,Eficlean,"Colombia, Bogotá, Cra 53 #103b29 LC 2",Bogota,Other
+96132,FLORISTERÍA NARURAL LUXURY,CALLE 134 #19-29 LOCAL 3,Bogota,Other
+95647,Floristeria Tropical Garden,"Carrera 17A, 98-62",Bogota,Other
+95788,Fronteras,"Autopista, 146-78 Granada Hills ",Bogota,Other
+96166,Gang Stop ,"Calle 61, 17-08",Bogota,Other
+95570,Interrapidisimo,"Colombia, Bogota, Chapinero, Carrera 11, 64-47",Bogota,Other
+96048,Juanita'Store ,Cll 72 #27a-15 LC 1,Bogota,Other
+95444,La carrera dorada,Cll 136 #52a-15,Bogota,Other
+95573,Lavanderia Gonzalez ,"Calle 60 Bis A, 13A-13",Bogota,Other
+96086,Los Ángeles Royalty ,"Calle 9, 42-15",Medellin,Other
+96429,Luces del Cielo ,"Colombia, Antioquia, Municipio de Medellín, Carrera 43E",Medellin,Other
+95759,Planeta Shop,"Colombia, Bogota, Chapinero, Carrera 11",Bogota,Other
+96051,Punto break,"Carrera 29, 75A-63",Bogota,Other
+95639,Rocket Store,Cra 17 137 91,Bogota,Other
+96321,Sony Country,"Colombia, Bogotá, Cll 127a #50a-20",Bogota,Other
+95657,Sym,"Colombia, Bogotá, Calle 76 #20b - 59",Bogota,Other
+95881,Wager s.a.s,"Colombia, Bogotá, Suba, Canodromo, Cll 127b bis #50a-32",Bogota,Other
+96119,CHOISY PET STORE,"Colombia, Bogotá, Calle 116 9 39",Bogota,Pets
+95263,Dogoz 1,"Colombia, Bogotá, Cra 53 #104b-58 LC 106",Bogota,Pets
+96309,Gatos y Perros,"Colombia, Bogotá, Cra 10 134b 85",Bogota,Pets
+95463,Mellow for Pets,"Colombia, Bogotá, Suba, San Jose del Prado, Cra 58 #137a-44",Bogota,Pets
+95876,NutriMascotas,"Colombia, Bogotá, Suba, Carrera 52A, 132-21",Bogota,Pets
+95845,Oh my dog Doggel Iberia,"Colombia, Bogotá, Suba, Carrera 58 Avenue",Bogota,Pets
+96279,Patitas & Mimos house ,Cra 24 #66-36,Bogota,Pets
+96450,Petika Pet Shop Spa,"Colombia, Bogotá, Cra 54 #104a-12",Bogota,Pets
+95245,Pets Move,"Colombia, Bogotá, Calle 107 08 07",Bogota,Pets
+96112,Salud Mascotas,"Colombia, Bogota, Calle 147 9 15 LC 1",Bogota,Pets
+95266,Supervet,Cra 59b #132-91,Bogota,Pets
+96044,Valto Pets ,Cra 7 #70-18,Bogota,Pets
+96055,Veterinaria Ardivet,"Calle 61, 17-07",Bogota,Pets
+96308,Woopi Mascotas,Cra 19 #144-09,Bogota,Pets
+95349,Conceptum - Unidad de Fertilidad del Country ,"Carrera 16, 82-29",Bogota,Pharmacy
+95871,Drigueria puente alcala,"Colombia, Bogotá, Cra 45 #137-25",Bogota,Pharmacy
+95575,Drogueria Bella farma,"Colombia, Bogota, Chapinero, Carrera 14, 79-25",Bogota,Pharmacy
+96109,Drogueria DYD Belmira,"Colombia, Bogota, Usaquen, Cr 7b # 140 28 local 11",Bogota,Pharmacy
+95524,Drogueria Economas,"Carrera 28, 78-93",Bogota,Pharmacy
+95515,Drogueria Farma Stock,"Colombia, Bogotá, Suba, Monaco, Diagonal 115, 45-23",Bogota,Pharmacy
+95283,Drogueria Farmalumen,"Colombia, Bogotá, Cra 49c #91-98",Bogota,Pharmacy
+96322,Drogueria Farmavivir,"Colombia, Bogotá, Cll 123a #53b-85",Bogota,Pharmacy
+96412,Drogueria Luatam,"Colombia, Bogotá, Cll 116 #20-64",Bogota,Pharmacy
+96385,Drogueria Luatam cll 150,"Colombia, Bogotá, Cll 150 #20a-04",Bogota,Pharmacy
+96081,Drogueria Nuevo Milenio ,Cra 7 #82-62,Bogota,Pharmacy
+95493,Drogueria Prado Alkosto 2,"Colombia, Bogotá, Suba, Prado Veraniego, Calle 130, 49-04",Bogota,Pharmacy
+96057,Drogueria de la 72,"Colombia, Bogota, 20A-29 Calle 72",Bogota,Pharmacy
+96012,Drogueria farma Hills,Cll 151 #5415 LC 1,Bogota,Pharmacy
+96064,Drogueria la Esperanza ,"Carrera 19, 154-91/IN1",Bogota,Pharmacy
+95631,Drogueria sona Bre ,"Carrera 27, 82-14",Bogota,Pharmacy
+95636,EconoFarma Market,"Colombia, Bogota, Usaquen, Carrera 7B, 155-22",Bogota,Pharmacy
+96050,Podologia Jose Barragan ,"Calle 60, 9-78",Bogota,Pharmacy
+96256,Vive Nutricion,Calle 143 18a 40,Bogota,Pharmacy
+95852,BMJ ACCESORIOS,"Colombia, Bogotá, Usaquén, Calle 140, 9-60",Bogota,Phone & tech
+95827,Cellphone Repair,"Colombia, Bogotá, Suba, Cll 130 #58-20 LC 133",Bogota,Phone & tech
+95860,Clik-Smart,"Colombia, Bogotá, Cra 53 #104b-58 LC 24",Bogota,Phone & tech
+95510,Ekkocell,"Colombia, Bogotá, Cra 58 #94b-94",Bogota,Phone & tech
+95794,Globopods,Calle 98 14 21,Bogota,Phone & tech
+95301,HYM Service Tecnology,"Calle 142, 12B-92",Bogota,Phone & tech
+95550,Mc Phone Usaquen ,"Calle 105A, 14-92",Bogota,Phone & tech
+95562,Mc Phone chico,"Carrera 14, 90-15",Bogota,Phone & tech
+95439,MobileExpert,"Carrera 43A, 9-64",Medellin,Phone & tech
+96124,Omnitel,Calle 119 11d 35 local 2,Bogota,Phone & tech
+95626,Pixk . Net,Calle 140 7a 59 local 15,Bogota,Phone & tech
+96405,Smartphone Specialist,"Colombia, Bogotá, Cll 90 #13-23",Bogota,Phone & tech
+96421,Souls's Technology,"Carrera 51, 131-10",Bogota,Phone & tech
+96115,Todo Accesorios Colombia,"Colombia, Bogota, Chapinero, Carrera 19, 135-36",Bogota,Phone & tech
+95853,Vividfixtech,"Colombia, Bogotá, Calle 98A, 58-62",Bogota,Phone & tech
+95862,787 Gastronomía ,"Carrera 36, 8A-18",Medellin,Restaurant
+96359,990 Food ,"Calle 63A, 22-47",Bogota,Restaurant
+95770,Ajiaco y Frijoles,"Colombia, Bogotá, Suba, Cra 58 #128b-57",Bogota,Restaurant
+96265,Ambar,"Calle 63A, 16-28",Bogota,Restaurant
+96282,Arepas y carnes el barril ,Cra 24 #63-11,Bogota,Restaurant
+95780,Ariagui,"Colombia, Bogotá, Suba, Cll 129 #47-60",Bogota,Restaurant
+96047,Asadero de la 76,"Colombia, Bogotá, Cra 22 #76-19",Bogota,Restaurant
+96152,Asiana,"Colombia, Bogota, Usaquen, Calle 140, 12-20",Bogota,Restaurant
+96371,Basker ,"Carrera 19, 71A-20",Bogota,Restaurant
+95782,Boca Boca Restaurnte,"Colombia, Bogotá, Suba, Cra 58 #128a-29",Bogota,Restaurant
+95740,Bravuz,"Colombia, Bogotá, Cll 127b Bis #50a-01",Bogota,Restaurant
+95614,COMBI,calle 26 a 13 97,Bogota,Restaurant
+95643,CONDE DANNY,"Colombia, Bogota, Chapinero, Carrera 19, 134A-49",Bogota,Restaurant
+96073,Capri restaurante,Cll 74 #11-95,Bogota,Restaurant
+95456,Carbon y leña,"Colombia, Bogotá, Cll 70 #24-27",Bogota,Restaurant
+95613,Carisma ,"Carrera 15, 77-90",Bogota,Restaurant
+96370,Casa Andiamo,"Colombia, Bogotá, Cll 74 #20c - 19",Bogota,Restaurant
+96060,Casa Balbini ,"Carrera 13A, 107A-31",Bogota,Restaurant
+96374,Catadelizzia,Cll 77 #26-46,Bogota,Restaurant
+95808,Chalo Chalo,"Colombia, Bogota, Chapinero, Granada, Carrera 5, 66-29",Bogota,Restaurant
+95347,Chan Chan ,"Carrera 14, 93-20",Bogota,Restaurant
+95642,Chicharron al carbon Gastrobar ,"Calle 9, 42-15",Medellin,Restaurant
+95663,DAVO,"Colombia, Bogotá, Usaquen, Calle 140, 18 CC Futuro 140",Bogota,Restaurant
+96271,Delicias Garner,"Carrera 22, 63D-33",Bogota,Restaurant
+96116,Delicias Guay,"Calle 140, 16A-54",Bogota,Restaurant
+95256,Distrito Horeka,"Colombia, Bogotá, Calle 95#13-55",Bogota,Restaurant
+95768,Donde Beto el original,"Carrera 58, 130-16",Bogota,Restaurant
+96307,Donde Godinez,"Colombia, Bogota, Usaquen, Las Orquideas, Calle 162, 18A-39",Bogota,Restaurant
+95743,Drop 51,"Colombia, Bogotá, Av Cra 7 #51-28",Bogota,Restaurant
+95346,El Chinchorro,"Calle 9, 39-23",Medellin,Restaurant
+95654,El Chorote Sopitas y Frijolada 140,"Colombia, Bogota, Usaquen, El Contador, Carrera 17A, 140-12",Bogota,Restaurant
+95360,El Humero,"Carrera 14, 93-20",Bogota,Restaurant
+96110,El Kiosco Cedritos,"Calle 145, 9-73",Bogota,Restaurant
+95303,El Master Taqueria,"Colombia, Bogota, Chapinero, Carrera 11, 63A-87",Bogota,Restaurant
+95656,El Mistico Restaurante,"Carrera 12, 98-12",Bogota,Restaurant
+96141,El Mistico Restaurante,"Calle 71, 12-14",Bogota,Restaurant
+96167,El Pechirojo,"Colombia, Bogotá, Calle 95 11a 44",Bogota,Restaurant
+95607,El chuzo de Jota 1,"Carrera 43B, 9-61",Medellin,Restaurant
+95655,El chuzo de Jota online,"Colombia, Antioquia, Municipio de Medellín, El Poblado, Carrera 43B, 10-21",Medellin,Restaurant
+96036,El mejor porllito dorado,"Colombia, Bogotá, Cra 24 #63f-25",Bogota,Restaurant
+96317,El rincon del polo ,"Calle 84, 27-11",Bogota,Restaurant
+96419,Empananyel,"Colombia, Bogotá, Cll 59 #17-43",Bogota,Restaurant
+95652,Factory Hamburguesas,"Colombia, Bogota, Cra 28 52 41",Bogota,Restaurant
+95638,Felix 69,Cra 5 #69-15,Bogota,Restaurant
+96407,Fuegos,"Colombia, Bogotá, Cra 14 #98-23",Bogota,Restaurant
+95741,Gallinas Calipso,"Colombia, Bogotá, Suba, Carrera 51, 130-12",Bogota,Restaurant
+95560,Gotopatos Salchipaperia ,"Carrera 26, 71B-30",Bogota,Restaurant
+95581,Haba Tonka,"Colombia, Bogota, Chapinero, Calle 77",Bogota,Restaurant
+96133,Hanashi Sushi,"Colombia, Bogota, Calle 24 69-43",Bogota,Restaurant
+96254,Hanashi Sushi,Cra 7#58-42,Bogota,Restaurant
+96259,Hanashi Sushi,"Colombia, Bogota, Carrera 50#22-41",Bogota,Restaurant
+95232,Hanashi Sushi Cedritos,"Colombia, Bogota, Calle 142 15 55",Bogota,Restaurant
+96426,Herbivoro 1,"Colombia, Bogotá, Cll 71 #9-55",Bogota,Restaurant
+96393,Herbivoro 2,"Colombia, Bogotá, Av suba 115-55",Bogota,Restaurant
+95451,Herbivoro 3,"Colombia, Bogotá, Cra 58 #128b-20",Bogota,Restaurant
+95289,Hotdog Express,"Colombia, Bogotá, Cr 9a 60 67",Bogota,Restaurant
+96572,House Pizza ,"Colombia, Antioquia, Municipio de Medellín, Calle 13, 43D-55",Medellin,Restaurant
+96352,Iniko,"Colombia, Bogota, Chapinero, Carrera 14",Bogota,Restaurant
+95567,Koinobori,"Colombia, Bogotá, Calle 76 16 22",Bogota,Restaurant
+95805,Koronko Cll 90,"Colombia, Bogotá, Calle 90, 16-46",Bogota,Restaurant
+95509,Koronko Cra 13,"Carrera 13 , 28a-21",Bogota,Restaurant
+96433,La Cabaña Andina,"Colombia, Bogotá, Cra 47a 99 63",Bogota,Restaurant
+95474,La Pollera del Norte,"Colombia, Bogotá, Cra 7 120a 24",Bogota,Restaurant
+95885,La birrieria Taqueria 2,Cll 167 #55c-10,Bogota,Restaurant
+95335,La bulimia Milanesas ,"Colombia, Bogotá, Suba, Calle 106, 52-11",Bogota,Restaurant
+95273,La dominicana ,Cll 64 #13-48,Bogota,Restaurant
+95295,La empanada oficial,"Colombia, Bogotá, Suba, Cra 49 #134-35",Bogota,Restaurant
+95242,La esplendida Milanesa,"Calle 95, 11A-67",Bogota,Restaurant
+95502,La sabrosura del veci,"Colombia, Bogotá, Suba, Carrera 47, 128C-58",Bogota,Restaurant
+95268,Lago Parrilla Restaurante,"Colombia, Bogota, Chapinero, Lago Gaitan, Carrera 19A, 79-47",Bogota,Restaurant
+95620,Lago Parrilla Restaurante calle 80,"Calle 80, 13-09",Bogota,Restaurant
+95415,Los discipulos restaurante,"Colombia, Bogotá, Calle 75 #22-40",Bogota,Restaurant
+96117,Luna Express,"Avenida Calle 116, 9-49",Bogota,Restaurant
+96274,MONDONGO Y CHICHARRORES BOGOTÁ,"Colombia, Bogotá, Cra 16 75 13",Bogota,Restaurant
+95684,Mambo Latin Nikkei,"Colombia, Bogotá, Chapinero, Chico Norte, Calle 93B, 13-61",Bogota,Restaurant
+95236,Mao Res Parrilla ,Cra 24 #84-25,Bogota,Restaurant
+96315,Media Res Steak House,"Colombia, Bogotá, CLL 119 # 11d 17",Bogota,Restaurant
+95491,Mister QK-YO,"Calle 69 Bis, 14-76",Bogota,Restaurant
+96129,Monumental Parrilla,Cra 58 #138-01 LC L71 Cc porto alegre,Bogota,Restaurant
+95497,Morbido Paink,"Colombia, Bogota, Chapinero, Calle 77",Bogota,Restaurant
+95787,Morenita Taqueria,"Colombia, Bogotá, Cll 114a #45-32",Bogota,Restaurant
+95462,Mr. Chorizo,"Colombia, Bogota, Cra 24 49 11",Bogota,Restaurant
+95341,Muy Chimbita - Toberin,Cl 166 46 05,Bogota,Restaurant
+95569,Ocurrencias,Cll 79 #18-30,Bogota,Restaurant
+95797,Oxmal,"Colombia, Bogotá, Cll 105 #45a-26",Bogota,Restaurant
+95625,PIZZA PÉREZ ,"Carrera 14, 76-73",Bogota,Restaurant
+95235,Parilla Restaurante Ciudad Bonita,"Colombia, Bogotá, CLL 134 # 9 a 20",Bogota,Restaurant
+96295,Parrilla Mar y Gourmet ,"Calle 13, 43D-04",Medellin,Restaurant
+96257,Parrilla y Mamona de Cerdo,"Colombia, Bogotá, Calle 161 16a 22",Bogota,Restaurant
+95508,Pazcula,"Carrera 58, 137B-01/LC-52",Bogota,Restaurant
+95250,Peppers Brosters,"Carrera 52A, 128A-08",Bogota,Restaurant
+95812,Pizza HC 10,"Calle 60, 7-62",Bogota,Restaurant
+96583,Pizza al parque,"Carrera 56, 159-89",Bogota,Restaurant
+96147,Planeta 65,Cra 7 #65-65,Bogota,Restaurant
+95479,Planeta Wings ,"Calle 9A, 37-08",Medellin,Restaurant
+95466,Pollos Ancla,"Colombia, Bogotá, Usaquen, Caobos Salazar, Cra 13 c147 83 LC 9",Bogota,Restaurant
+96270,Pots Cocina Consciente,Calle 43 28 11 piso 1,Bogota,Restaurant
+95616,PreGo Express,"Colombia, Bogotá, Cra 7 42 79",Bogota,Restaurant
+96125,Punto 61,"Colombia, Bogota, Usaquen, Estrella del Norte, Carrera 16D",Bogota,Restaurant
+95523,Reina Pepiada ,Cll 64 #16-24 LC 2,Bogota,Restaurant
+95423,Restaurante Andrea ,"Colombia, Antioquia, Municipio de Medellín, Calle 14, 43D-35",Medellin,Restaurant
+96131,Restaurante Break,"Carrera 8, 108-15",Bogota,Restaurant
+95662,Restaurante La Emabajada Santandereana,"Avenida Calle 161, 8C-17",Bogota,Restaurant
+96264,Restaurante La Emabajada Santandereana,"Colombia, Bogota, Usaquen, San Cristobal Norte, Calle 162, 7B-53",Bogota,Restaurant
+96267,Restaurante Pinico's,"Colombia, Bogota, Cra 30 48 30 local 7",Bogota,Restaurant
+96238,Ricuras Marly,"Colombia, Bogotá, Calle 119 14 10",Bogota,Restaurant
+96327,Rikas Comidas,"Calle 62, 11-48",Bogota,Restaurant
+95471,Rincon del Chicamocha,"Colombia, Bogotá, Cll 163a 14d -12",Bogota,Restaurant
+95243,Rock Band Burgers,"Colombia, Bogotá, Calle 66 12 01",Bogota,Restaurant
+95802,Sabrositas Las Arepas Cuadradas,"Colombia, Bogota, Chapinero, Chapinero Central, Carrera 11, 61-45",Bogota,Restaurant
+96311,Salchi patatas ,"Carrera 16, 63A-07",Bogota,Restaurant
+95772,San Lazaro,"Colombia, Bogotá, Cra 11 63a 71",Bogota,Restaurant
+96269,San Parrillon,Cra 7 #64-80,Bogota,Restaurant
+96397,Sano Food,"Colombia, Bogotá, Cll 93 #12-54",Bogota,Restaurant
+96201,Sazon Puerto Rico ,"Calle 9, 39-21",Medellin,Restaurant
+96567,Sekushi Sky Piso 20,"Colombia, Bogotá, Cll 90 #16-56",Bogota,Restaurant
+95253,Shokunin,"Calle 99, 13A-79",Bogota,Restaurant
+95671,Sopitas y mucho mas,Cra 46 #152-46,Bogota,Restaurant
+95866,Sr Empanadas,"Colombia, Bogotá, Suba, Cll 128b #45a-09",Bogota,Restaurant
+96377,Suchi su Chicharron ,"Carrera 27B, 71B-95",Bogota,Restaurant
+96605,Taqueria la Inmaculada ,"Colombia, Antioquia, Municipio de Medellín, Barrio de Astorga, Calle 8, 43A-89",Medellin,Restaurant
+96104,Tonelanco,Cra 16 136 95 LC 5,Bogota,Restaurant
+96448,ToraBora Restaurant,"Colombia, Bogotá, Cra 47a 98 67",Bogota,Restaurant
+96268,Toscana,"Avenida Carrera 15, 141-85",Bogota,Restaurant
+95650,Umami Burger,Cll 72 #20-79,Bogota,Restaurant
+96121,"Wagyu Bites, Burguer & Grill","Colombia, Bogotá, Calle 150 # 20-38",Bogota,Restaurant
+95846,Zafiro,"Colombia, Bogotá, Suba, Prado Veraniego Norte, Calle 131A, 53-91",Bogota,Restaurant
+95606,Zattera ,"Carrera 17, 105-69",Bogota,Restaurant
+96606,Centro Copias A Color,"Colombia, Bogota, Cra 15 104 09",Bogota,Stationery & print
+96038,Copycenter,"Colombia, Bogota, Chapinero, Calle 65",Bogota,Stationery & print
+96127,DocuCopia,"Calle 74, 14-47",Bogota,Stationery & print
+96604,Imprekolor S.A.S,"Carrera 49, 93-74",Bogota,Stationery & print
+95649,Imprintia,"Colombia, Bogotá, Usaquén, Cl 151 18a 11",Bogota,Stationery & print
+95760,La gran Pepeleria,"Colombia, Bogotá, Suba, Cll 138 #57-61",Bogota,Stationery & print
+96272,PAPELERÍA CALLE 100,Av calle 100 10 39,Bogota,Stationery & print
+95557,Papeleria 78,"Carrera 13A, 78-28",Bogota,Stationery & print
+95761,Papeleria Cll 100,"Calle 100, 17-61",Bogota,Stationery & print
+95637,Papeleria Colores & Papeles,"Calle 145, 13-12",Bogota,Stationery & print
+95809,Papeleria Copicomputo,"Calle 61, 7-95",Bogota,Stationery & print
+96278,Papeleria Donde Irasema,"Colombia, Bogotá, Av cr 15 103 90 LC 202",Bogota,Stationery & print
+96066,Papeleria La Adri,"Colombia, Bogotá, Cra 7f 155a 22",Bogota,Stationery & print
+95540,Papeleria Soluciones Chapinero,"Colombia, Bogotá, Cra 9 62 46",Bogota,Stationery & print
+95669,Papeleria Y Curiosidades Minnie,"Colombia, Bogotá, Calle 156 7d 42",Bogota,Stationery & print
+95238,Smart Center Tecnopaper,"Calle 76, 12-82",Bogota,Stationery & print
+95368,T-Shirt Lab -92,Carrera 11 No. 92-10 ,Bogota,Stationery & print
+95352,Zona 95 Papeleria,Cra 11 95 37 ,Bogota,Stationery & print
+95436,Universidad central centro,"Colombia, Bogotá, Calle 26 Avenue",Bogota,Universities
+95720,Universidad central centro,"Colombia, Bogotá, Calle 26 Avenue",Bogota,Universities
+96062,Yango Pro Av Boyaca,"Colombia, Bogotá, Av boyaca Cra 72 #03a-14",Bogota,Yango Pro partner office
+95779,Yango Pro CC Carrera,"Colombia, Bogotá, Av. de las Américas #50-15",Bogota,Yango Pro partner office
+95601,Yango Pro CC Nuestro Bogota,Av Cra 86 # 55A - 75,Bogota,Yango Pro partner office
+95369,Yango Pro CC portal 80,Transversal 100A # 80A - 20,Bogota,Yango Pro partner office
+95826,Yango Pro Esquina,"Carrera 24 Avenue, 62-39",Bogota,Yango Pro partner office
+96101,Yango Pro Suro,"Colombia, Bogotá, Cll 134 #45b-51",Bogota,Yango Pro partner office
+96430,Yango Pro sede Normandia,Cll 55 #72-08,Bogota,Yango Pro partner office

@@ -1,0 +1,1101 @@
+{
+ "generated_from_refresh": "2026-09-28 04:31",
+ "window": {
+  "start": "2026-09-14",
+  "end": "2026-09-27"
+ },
+ "section1": {
+  "weeks": [
+   "2026-06-29",
+   "2026-07-06",
+   "2026-07-13",
+   "2026-07-20",
+   "2026-07-27",
+   "2026-08-03",
+   "2026-08-10",
+   "2026-08-17",
+   "2026-08-24",
+   "2026-08-31",
+   "2026-09-07",
+   "2026-09-14",
+   "2026-09-21"
+  ],
+  "series": {
+   "Bogota": [
+    25,
+    21,
+    29,
+    43,
+    46,
+    65,
+    83,
+    70,
+    99,
+    124,
+    94,
+    123,
+    98
+   ],
+   "Medellin": [
+    3,
+    0,
+    0,
+    1,
+    2,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    2,
+    0
+   ],
+   "not_classified": [
+    445,
+    448,
+    450,
+    481,
+    240,
+    5,
+    9,
+    8,
+    8,
+    6,
+    4,
+    13,
+    16
+   ]
+  }
+ },
+ "cities": {
+  "Bogota": {
+   "completed_rents": 221,
+   "stations": 433,
+   "median_minutes": 87,
+   "same_station_pct": 92,
+   "active_pct": 13,
+   "top10_share_pct": 45,
+   "top10_count": 13,
+   "renting_stations": 93,
+   "dow_totals": [
+    15,
+    29,
+    24,
+    55,
+    40,
+    45,
+    13
+   ],
+   "top_stations": [
+    [
+     96565,
+     "Despecho",
+     "Calle 90, 16-56/LC-214",
+     13,
+     "ok"
+    ],
+    [
+     95455,
+     "ATHLETIC HUB 72",
+     "Carrera 26, 71B-62",
+     12,
+     "ok"
+    ],
+    [
+     95425,
+     "al star bowling",
+     "Calle 90, 16-46",
+     12,
+     "ok"
+    ],
+    [
+     95290,
+     "Gentleman's 2018 Barberia tradicional",
+     "Av boyaca #152-17 LC 301",
+     11,
+     "ok"
+    ],
+    [
+     95664,
+     "We Work",
+     "Chapinero, Carrera 19, 100-45",
+     8,
+     "ok"
+    ],
+    [
+     95727,
+     "DOLCE FAR NIENTE",
+     "Calle 93B, 11A-84/LC-207",
+     7,
+     "not_responding"
+    ],
+    [
+     95507,
+     "Cigarreria D edixon",
+     "Suba, Carrera 46, 134D-24",
+     6,
+     "ok"
+    ],
+    [
+     96567,
+     "Sekushi Sky Piso 20",
+     "Cll 90 #16-56",
+     5,
+     "ok"
+    ],
+    [
+     96072,
+     "FLX",
+     "Cra 5 #69-07",
+     5,
+     "not_responding"
+    ],
+    [
+     95289,
+     "Hotdog Express",
+     "Cr 9a 60 67",
+     5,
+     "not_responding"
+    ],
+    [
+     95503,
+     "Km Cero",
+     "Cra 1 #84d-20 o Avenida Circunvalar #84d -20",
+     5,
+     "not_responding"
+    ],
+    [
+     96101,
+     "Yango Pro Suro",
+     "Cll 134 #45b-51",
+     5,
+     "not_responding"
+    ],
+    [
+     95436,
+     "Universidad central centro",
+     "Calle 26 Avenue",
+     5,
+     "not_responding"
+    ]
+   ],
+   "categories": [
+    {
+     "category": "Universities",
+     "stations": 2,
+     "rents": 9,
+     "rents_per_station": 4.5,
+     "active_pct": 100,
+     "share_pct": 4
+    },
+    {
+     "category": "Yango Pro partner office",
+     "stations": 7,
+     "rents": 11,
+     "rents_per_station": 1.57,
+     "active_pct": 71,
+     "share_pct": 5
+    },
+    {
+     "category": "Gym & sports",
+     "stations": 20,
+     "rents": 25,
+     "rents_per_station": 1.25,
+     "active_pct": 35,
+     "share_pct": 11
+    },
+    {
+     "category": "Bar & entertainment",
+     "stations": 47,
+     "rents": 54,
+     "rents_per_station": 1.15,
+     "active_pct": 23,
+     "share_pct": 24
+    },
+    {
+     "category": "Mall & office",
+     "stations": 24,
+     "rents": 17,
+     "rents_per_station": 0.71,
+     "active_pct": 38,
+     "share_pct": 8
+    },
+    {
+     "category": "Convenience & market",
+     "stations": 38,
+     "rents": 21,
+     "rents_per_station": 0.55,
+     "active_pct": 32,
+     "share_pct": 10
+    },
+    {
+     "category": "Barber & beauty",
+     "stations": 33,
+     "rents": 16,
+     "rents_per_station": 0.48,
+     "active_pct": 9,
+     "share_pct": 7
+    },
+    {
+     "category": "Restaurant",
+     "stations": 117,
+     "rents": 36,
+     "rents_per_station": 0.31,
+     "active_pct": 19,
+     "share_pct": 16
+    },
+    {
+     "category": "Cafe & bakery",
+     "stations": 49,
+     "rents": 14,
+     "rents_per_station": 0.29,
+     "active_pct": 18,
+     "share_pct": 6
+    },
+    {
+     "category": "Pets",
+     "stations": 14,
+     "rents": 4,
+     "rents_per_station": 0.29,
+     "active_pct": 7,
+     "share_pct": 2
+    },
+    {
+     "category": "Stationery & print",
+     "stations": 18,
+     "rents": 5,
+     "rents_per_station": 0.28,
+     "active_pct": 28,
+     "share_pct": 2
+    },
+    {
+     "category": "Pharmacy",
+     "stations": 19,
+     "rents": 3,
+     "rents_per_station": 0.16,
+     "active_pct": 11,
+     "share_pct": 1
+    },
+    {
+     "category": "Other",
+     "stations": 26,
+     "rents": 4,
+     "rents_per_station": 0.15,
+     "active_pct": 12,
+     "share_pct": 2
+    },
+    {
+     "category": "Phone & tech",
+     "stations": 14,
+     "rents": 2,
+     "rents_per_station": 0.14,
+     "active_pct": 14,
+     "share_pct": 1
+    },
+    {
+     "category": "Auto & moto",
+     "stations": 5,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    }
+   ],
+   "category_stations": {
+    "Auto & moto": [],
+    "Bar & entertainment": [
+     [
+      96565,
+      "Despecho",
+      "Calle 90, 16-56/LC-214",
+      13,
+      "ok"
+     ],
+     [
+      95425,
+      "al star bowling",
+      "Calle 90, 16-46",
+      12,
+      "ok"
+     ],
+     [
+      95727,
+      "DOLCE FAR NIENTE",
+      "Calle 93B, 11A-84/LC-207",
+      7,
+      "not_responding"
+     ],
+     [
+      96072,
+      "FLX",
+      "Cra 5 #69-07",
+      5,
+      "not_responding"
+     ],
+     [
+      95503,
+      "Km Cero",
+      "Cra 1 #84d-20 o Avenida Circunvalar #84d -20",
+      5,
+      "not_responding"
+     ],
+     [
+      95677,
+      "Monaco",
+      "Calle 90, 16-46",
+      4,
+      "not_responding"
+     ],
+     [
+      95848,
+      "Bar Rancho Gomez",
+      "Suba, Cll 138 #50-43",
+      2,
+      "not_responding"
+     ],
+     [
+      95621,
+      "La Catedra de Jhonsito",
+      "Cra 7a 130b 15",
+      2,
+      "ok"
+     ],
+     [
+      95583,
+      "Patria Cerveceria",
+      "Carrera 11, 81-08",
+      2,
+      "not_responding"
+     ],
+     [
+      96158,
+      "Club de tejo cosita rica 2",
+      "Calle 163, 17-36",
+      1,
+      "not_responding"
+     ],
+     [
+      95370,
+      "Verona Pub",
+      "Cra 11 70 05",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Barber & beauty": [
+     [
+      95290,
+      "Gentleman's 2018 Barberia tradicional",
+      "Av boyaca #152-17 LC 301",
+      11,
+      "ok"
+     ],
+     [
+      95814,
+      "Inkora Tatto Academy",
+      "Carrera 19A, 61B-72",
+      4,
+      "not_responding"
+     ],
+     [
+      95629,
+      "Sala de belleza Color Flash",
+      "Calle 125 Bis, 20-71",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Cafe & bakery": [
+     [
+      95822,
+      "Cafe Moreno Sede 127",
+      "Cll 127b #50a-01",
+      3,
+      "not_responding"
+     ],
+     [
+      96302,
+      "Gastro Cafe 70 y 7",
+      "Carrera 48, 95-22",
+      2,
+      "ok"
+     ],
+     [
+      96443,
+      "Pipon Resposteria Artesanal",
+      "cra 47a 99 09",
+      2,
+      "not_responding"
+     ],
+     [
+      96076,
+      "Roots Cafe",
+      "Cll 74 #20c-67",
+      2,
+      "not_responding"
+     ],
+     [
+      96100,
+      "COFFEE PAPER",
+      "Calle 159, 7G-15",
+      1,
+      "not_responding"
+     ],
+     [
+      96305,
+      "Cafe del Rio",
+      "Cra 15 112 03 LC 102",
+      1,
+      "not_responding"
+     ],
+     [
+      95552,
+      "Coffeer Tu Cafe del Dia",
+      "Cra 11 61 10",
+      1,
+      "not_responding"
+     ],
+     [
+      96239,
+      "El buho-lapiz y cafe",
+      "Carrera 16, 63A-30",
+      1,
+      "not_responding"
+     ],
+     [
+      95617,
+      "Salon Pan Express",
+      "Carrera 7A, 62-08",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Convenience & market": [
+     [
+      95507,
+      "Cigarreria D edixon",
+      "Suba, Carrera 46, 134D-24",
+      6,
+      "ok"
+     ],
+     [
+      95790,
+      "Oxxo Global Center",
+      "Cra 19 #120-83",
+      3,
+      "ok"
+     ],
+     [
+      95505,
+      "Oxxo Santa Barbara",
+      "Cra 7 #124-93",
+      2,
+      "ok"
+     ],
+     [
+      95834,
+      "Oxxo Unique",
+      "Cra 9 #100-47/77 edificio unique mine",
+      2,
+      "ok"
+     ],
+     [
+      95331,
+      "BWS - Bacata Wine & Spirits",
+      "Carrera 13 # 78-94",
+      1,
+      "not_responding"
+     ],
+     [
+      96045,
+      "Cigarreria Delifast",
+      "Calle 159 19 35",
+      1,
+      "not_responding"
+     ],
+     [
+      95634,
+      "Cigarreria Poblix",
+      "Cra 24 #76-89",
+      1,
+      "ok"
+     ],
+     [
+      95874,
+      "De to' Market",
+      "Carrera 53, 128C-61",
+      1,
+      "not_responding"
+     ],
+     [
+      95333,
+      "El Granjero Alsacia",
+      "Centro Comercial Bazaar Alsacia Calle 12b #71D -61 Local 1-06",
+      1,
+      "ok"
+     ],
+     [
+      96175,
+      "Mercados Regionales",
+      "Carrera 13 # 118A-48",
+      1,
+      "ok"
+     ],
+     [
+      95261,
+      "Oxxo Virrey",
+      "Cl. 90 #19-29",
+      1,
+      "ok"
+     ],
+     [
+      95879,
+      "Shop Express",
+      "Cra 67 #100-21",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Gym & sports": [
+     [
+      95455,
+      "ATHLETIC HUB 72",
+      "Carrera 26, 71B-62",
+      12,
+      "ok"
+     ],
+     [
+      95483,
+      "Athletic Engativa",
+      "Trvs 113 #66-87",
+      4,
+      "ok"
+     ],
+     [
+      96354,
+      "Athletic Restrepo",
+      "Cra 22 #31 sur",
+      4,
+      "not_responding"
+     ],
+     [
+      95733,
+      "Athletic Calle 147",
+      "Cra 7b #146-90",
+      2,
+      "ok"
+     ],
+     [
+      95884,
+      "Bureo Dance Studio Cll 127",
+      "Cll 127b #50a-23",
+      1,
+      "ok"
+     ],
+     [
+      95365,
+      "Padel Cancha Central",
+      "Cl. 120a #6a-53",
+      1,
+      "not_responding"
+     ],
+     [
+      95670,
+      "Polideportivo san felipe segundo piso",
+      "Calle 74 #20b-11",
+      1,
+      "ok"
+     ]
+    ],
+    "Mall & office": [
+     [
+      95664,
+      "We Work",
+      "Chapinero, Carrera 19, 100-45",
+      8,
+      "ok"
+     ],
+     [
+      95661,
+      "Unilago Centro Comercial  1 piso 2",
+      "Carrera 15, 78-33",
+      2,
+      "not_responding"
+     ],
+     [
+      95288,
+      "Centro comercial Aquarium Piso 3",
+      "Cll 60 #9-83",
+      1,
+      "not_responding"
+     ],
+     [
+      95544,
+      "Centro comercial Cosmos 64",
+      "Cll 64 #11-37 ofc 322",
+      1,
+      "not_responding"
+     ],
+     [
+      96054,
+      "Centro comercial Cosmos 64",
+      "Cll 64 #11-37 ofc 322 piso 4",
+      1,
+      "not_responding"
+     ],
+     [
+      96372,
+      "Centro comercial Cosmos 64",
+      "Cll 64 #11-37 ofc 322 piso 5",
+      1,
+      "not_responding"
+     ],
+     [
+      96369,
+      "Centro empresarial Centrolandia Norte 1",
+      "Carrera 13, 64-32",
+      1,
+      "not_responding"
+     ],
+     [
+      96364,
+      "Unilago Centro Comercial 2 piso cafe",
+      "Carrera 15, 77-75",
+      1,
+      "not_responding"
+     ],
+     [
+      95593,
+      "Unilago Centro Comercial OMA cafe",
+      "Carrera 15, 77-59/LC-172-173",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Other": [
+     [
+      95444,
+      "La carrera dorada",
+      "Cll 136 #52a-15",
+      2,
+      "ok"
+     ],
+     [
+      95769,
+      "5 Destinos",
+      "Suba, Carrera 46, 129-25",
+      1,
+      "ok"
+     ],
+     [
+      95532,
+      "Casa San Felipe",
+      "Calle 75 #22-40",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Pets": [
+     [
+      95463,
+      "Mellow for Pets",
+      "Suba, San Jose del Prado, Cra 58 #137a-44",
+      4,
+      "ok"
+     ]
+    ],
+    "Pharmacy": [
+     [
+      95349,
+      "Conceptum - Unidad de Fertilidad del Country",
+      "Carrera 16, 82-29",
+      2,
+      "ok"
+     ],
+     [
+      96109,
+      "Drogueria DYD Belmira",
+      "Usaquen, Cr 7b # 140 28 local 11",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Phone & tech": [
+     [
+      95827,
+      "Cellphone Repair",
+      "Suba, Cll 130 #58-20 LC 133",
+      1,
+      "not_responding"
+     ],
+     [
+      95626,
+      "Pixk . Net",
+      "Calle 140 7a 59 local 15",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Restaurant": [
+     [
+      95289,
+      "Hotdog Express",
+      "Cr 9a 60 67",
+      5,
+      "not_responding"
+     ],
+     [
+      96567,
+      "Sekushi Sky Piso 20",
+      "Cll 90 #16-56",
+      5,
+      "ok"
+     ],
+     [
+      95347,
+      "Chan Chan",
+      "Carrera 14, 93-20",
+      3,
+      "ok"
+     ],
+     [
+      95770,
+      "Ajiaco y Frijoles",
+      "Suba, Cra 58 #128b-57",
+      2,
+      "ok"
+     ],
+     [
+      95451,
+      "Herbivoro 3",
+      "Cra 58 #128b-20",
+      2,
+      "ok"
+     ],
+     [
+      95509,
+      "Koronko Cra 13",
+      "Carrera 13 , 28a-21",
+      2,
+      "not_responding"
+     ],
+     [
+      95606,
+      "Zattera",
+      "Carrera 17, 105-69",
+      2,
+      "ok"
+     ],
+     [
+      96371,
+      "Basker",
+      "Carrera 19, 71A-20",
+      1,
+      "not_responding"
+     ],
+     [
+      95614,
+      "COMBI",
+      "calle 26 a 13 97",
+      1,
+      "ok"
+     ],
+     [
+      96060,
+      "Casa Balbini",
+      "Carrera 13A, 107A-31",
+      1,
+      "ok"
+     ],
+     [
+      95652,
+      "Factory Hamburguesas",
+      "Cra 28 52 41",
+      1,
+      "not_responding"
+     ],
+     [
+      95638,
+      "Felix 69",
+      "Cra 5 #69-15",
+      1,
+      "ok"
+     ],
+     [
+      95581,
+      "Haba Tonka",
+      "Chapinero, Calle 77",
+      1,
+      "not_responding"
+     ],
+     [
+      96259,
+      "Hanashi Sushi",
+      "Carrera 50#22-41",
+      1,
+      "not_responding"
+     ],
+     [
+      95232,
+      "Hanashi Sushi Cedritos",
+      "Calle 142 15 55",
+      1,
+      "ok"
+     ],
+     [
+      96393,
+      "Herbivoro 2",
+      "Av suba 115-55",
+      1,
+      "ok"
+     ],
+     [
+      95268,
+      "Lago Parrilla Restaurante",
+      "Chapinero, Lago Gaitan, Carrera 19A, 79-47",
+      1,
+      "not_responding"
+     ],
+     [
+      95236,
+      "Mao Res Parrilla",
+      "Cra 24 #84-25",
+      1,
+      "ok"
+     ],
+     [
+      96315,
+      "Media Res Steak House",
+      "CLL 119 # 11d 17",
+      1,
+      "not_responding"
+     ],
+     [
+      95787,
+      "Morenita Taqueria",
+      "Cll 114a #45-32",
+      1,
+      "ok"
+     ],
+     [
+      95508,
+      "Pazcula",
+      "Carrera 58, 137B-01/LC-52",
+      1,
+      "not_responding"
+     ],
+     [
+      95671,
+      "Sopitas y mucho mas",
+      "Cra 46 #152-46",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Stationery & print": [
+     [
+      95761,
+      "Papeleria Cll 100",
+      "Calle 100, 17-61",
+      1,
+      "not_responding"
+     ],
+     [
+      95809,
+      "Papeleria Copicomputo",
+      "Calle 61, 7-95",
+      1,
+      "not_responding"
+     ],
+     [
+      95540,
+      "Papeleria Soluciones Chapinero",
+      "Cra 9 62 46",
+      1,
+      "not_responding"
+     ],
+     [
+      95368,
+      "T-Shirt Lab -92",
+      "Carrera 11 No. 92-10",
+      1,
+      "ok"
+     ],
+     [
+      95352,
+      "Zona 95 Papeleria",
+      "Cra 11 95 37",
+      1,
+      "not_responding"
+     ]
+    ],
+    "Universities": [
+     [
+      95436,
+      "Universidad central centro",
+      "Calle 26 Avenue",
+      5,
+      "not_responding"
+     ],
+     [
+      95720,
+      "Universidad central centro",
+      "Calle 26 Avenue",
+      4,
+      "not_responding"
+     ]
+    ],
+    "Yango Pro partner office": [
+     [
+      96101,
+      "Yango Pro Suro",
+      "Cll 134 #45b-51",
+      5,
+      "not_responding"
+     ],
+     [
+      96062,
+      "Yango Pro Av Boyaca",
+      "Av boyaca Cra 72 #03a-14",
+      2,
+      "not_responding"
+     ],
+     [
+      95601,
+      "Yango Pro CC Nuestro Bogota",
+      "Av Cra 86 # 55A - 75",
+      2,
+      "ok"
+     ],
+     [
+      95779,
+      "Yango Pro CC Carrera",
+      "Av. de las Américas #50-15",
+      1,
+      "ok"
+     ],
+     [
+      95826,
+      "Yango Pro Esquina",
+      "Carrera 24 Avenue, 62-39",
+      1,
+      "ok"
+     ]
+    ]
+   }
+  },
+  "Medellin": {
+   "completed_rents": 2,
+   "stations": 30,
+   "median_minutes": 1,
+   "same_station_pct": 100,
+   "active_pct": 4,
+   "top10_share_pct": 100,
+   "top10_count": 1,
+   "renting_stations": 1,
+   "dow_totals": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+   ],
+   "top_stations": [
+    [
+     95607,
+     "El chuzo de Jota 1",
+     "Carrera 43B, 9-61",
+     2,
+     "ok"
+    ]
+   ],
+   "categories": [
+    {
+     "category": "Restaurant",
+     "stations": 11,
+     "rents": 2,
+     "rents_per_station": 0.18,
+     "active_pct": 9,
+     "share_pct": 100
+    },
+    {
+     "category": "Cafe & bakery",
+     "stations": 7,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    },
+    {
+     "category": "Barber & beauty",
+     "stations": 5,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    },
+    {
+     "category": "Convenience & market",
+     "stations": 2,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    },
+    {
+     "category": "Other",
+     "stations": 2,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    },
+    {
+     "category": "Bar & entertainment",
+     "stations": 1,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    },
+    {
+     "category": "Gym & sports",
+     "stations": 1,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    },
+    {
+     "category": "Phone & tech",
+     "stations": 1,
+     "rents": 0,
+     "rents_per_station": 0.0,
+     "active_pct": 0,
+     "share_pct": 0
+    }
+   ],
+   "category_stations": {
+    "Bar & entertainment": [],
+    "Barber & beauty": [],
+    "Cafe & bakery": [],
+    "Convenience & market": [],
+    "Gym & sports": [],
+    "Other": [],
+    "Phone & tech": [],
+    "Restaurant": [
+     [
+      95607,
+      "El chuzo de Jota 1",
+      "Carrera 43B, 9-61",
+      2,
+      "ok"
+     ]
+    ]
+   }
+  }
+ }
+}
